@@ -69,4 +69,4 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 ## 📞 Contact Info
 
 📧 [ali.badran53@yahoo.com](mailto:ali.badran53@yahoo.com)  
-🔗 [GitHub](https://github.com/aBadran0) | [LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/)
