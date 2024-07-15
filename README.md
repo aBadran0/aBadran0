@@ -1,5 +1,7 @@
 # Ali Badran
 
+
+
 ## 👋 About Me
 
 I am a recent graduate from the American University of Sharjah with a Bachelor's in Computer Science. I am passionate about continuously learning and growing within the field of computer science. I am adaptable, eager to tackle challenges, and open to opportunities that may not align perfectly with my initial interests.
