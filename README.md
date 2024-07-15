@@ -1,15 +1,8 @@
 # Ali Badran
 
-
-
 ## 👋 About Me
 
 I am a recent graduate from the American University of Sharjah with a Bachelor's in Computer Science. I am passionate about continuously learning and growing within the field of computer science. I am adaptable, eager to tackle challenges, and open to opportunities that may not align perfectly with my initial interests.
-
-📍 Fifth Settlement, Cairo, Egypt | University City, Sharjah, UAE  
-📧 ali.badran53@yahoo.com  
-📱 +971 50 232 0456 | +20 110 425 3405  
-🔗 [GitHub](https://github.com/aBadran0) | [LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/)
 
 ---
 
@@ -17,7 +10,6 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 
 - **Programming Languages:** Java, C++, Python, JavaScript, HTML, CSS, Assembly (8086)
 - **Frameworks & Tools:** Flask, Google Firebase, RStudio, Cisco Packet Tracer, FortiGate Configuration, Oracle SQL, Azure, Git, Linux
-
 
 ## 🌐 Languages
 
@@ -53,7 +45,6 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 
 ## 🏆 Accomplishments
 
-
 - **University Merit Scholarship (20%)**  
   *American University of Sharjah, September 2020*  
   Awarded a 20% scholarship for maintaining a CGPA above 2.75.
@@ -73,5 +64,9 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 - [Java application simulating a music database using Oracle SQL.](https://github.com/aBadran0/Music-Database)
 - Java application simulating a smart parking lot with Azure web services and CosmosDB (NoSQL).
 
-
 ---
+
+## 📞 Contact Info
+
+📧 [ali.badran53@yahoo.com](mailto:ali.badran53@yahoo.com)  
+🔗 [GitHub](https://github.com/aBadran0) | [LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/)
