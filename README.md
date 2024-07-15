@@ -62,7 +62,7 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 - [Simulation of Quicksort Variations using C++.](https://github.com/aBadran0/QuicksortVarations)
 - [Simple Java mobile application utilizing SQLite to store and retrieve coordinates.](https://github.com/aBadran0/SimpleSQLLite)
 - [Java application simulating a music database using Oracle SQL.](https://github.com/aBadran0/Music-Database)
-- Java application simulating a smart parking lot with Azure web services and CosmosDB (NoSQL).
+- [Java application simulating a smart parking lot with Azure web services and CosmosDB (NoSQL).](https://github.com/aBadran0/Smart-Parking-Lot)
 
 ---
 
