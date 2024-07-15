@@ -1,7 +1,5 @@
 # Ali Badran
 
-![Profile Picture](https://www.github.com/aBadran0/profile_pic.jpg)
-
 ---
 
 ## 👋 About Me
