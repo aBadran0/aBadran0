@@ -15,7 +15,6 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 
 - **English:** Native Proficiency
 - **Arabic:** Native Proficiency
-- **Korean:** Beginner
 
 ---
 
