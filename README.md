@@ -28,6 +28,16 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 - Explored various aspects of network security by completing the CompTIA Security+ (SY0-601) course.
 - Hands-on experience in configuring and managing multiple FortiGate firewalls (Fortinet NSE 4).
 
+**Software Developer Intern**
+*Suplyd, Cairo, Egypt*
+*October 2024 - November 2024
+
+- Developed robust APIs using NestJS and GraphQL
+- Integrated with both MongoDB and PostgreSQL databases
+- Applied Domain-Driven Design to align APIs with business logic
+- Used Prisma ORM for database management and query optimization
+
+
 ---
 
 ## 🎓 Education
