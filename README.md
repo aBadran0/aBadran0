@@ -29,10 +29,8 @@ I am a recent graduate from the American University of Sharjah with a Bachelor's
 - Hands-on experience in configuring and managing multiple FortiGate firewalls (Fortinet NSE 4).
 
 **Software Developer Intern**
-
 *Suplyd, Cairo, Egypt*
-
-*October 2024 - November 2024
+*October 2024 - November 2024*
 
 - Developed robust APIs using NestJS and GraphQL
 - Integrated with both MongoDB and PostgreSQL databases
