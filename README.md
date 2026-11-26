@@ -1,81 +1,52 @@
 # Ali Badran
 
-## 👋 About Me
+Python and Odoo developer at Odoo Middle East in Dubai. I trace customer issues in production Odoo databases to their root cause and fix them in Odoo's core source, with a regression test for each fix.
 
-I am a recent graduate from the American University of Sharjah with a Bachelor's in Computer Science. I strive to gain additional knowledge and experience in the field of computer science, with a preference for backend development. I am adaptable, eager to tackle challenges, and open to opportunities that may not align perfectly with my initial interests.
+My Odoo contributions are made under my work account, [@albd-odoo](https://github.com/albd-odoo). This account holds my personal and university projects.
 
----
+## Experience
 
-## 🛠️ Skills
+**Odoo Middle East, Dubai**
 
-- **Programming Languages:** Java, C++, Python, JavaScript, HTML, CSS, Assembly (8086), C#
-- **Frameworks & Tools:** Flask, Google Firebase, RStudio, Cisco Packet Tracer, FortiGate Configuration, Oracle SQL, Azure, Git, Linux, GraphQL, RestAPI, Node.js, NestJS
-- **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900)
+- **Technical Support** (July 2026 to present). I restore copies of customer databases, reproduce the reported behavior, and find whether the cause is custom code, configuration and data, or a standard bug. Standard bugs get fixed upstream in Odoo Community and Enterprise. I also benchmark slow flows on databases with up to 24M journal items and submit PostgreSQL and core performance patches.
+- **Technical Consultant** (April 2025 to May 2026). I built custom modules for Sales, Accounting, Purchase, Invoicing, CRM and HR, migrated modules from Odoo 15 up to 19, built QWeb reports, and integrated a payment provider for a school management system. Projects ranged from 1 to 20 users up to implementations with hundreds of users.
 
-## 🌐 Languages
+**Earlier.** Backend developer intern at Suplyd, Cairo, building NestJS and GraphQL APIs on MongoDB and PostgreSQL with Prisma. Network security intern at iEight Technologies, Cairo, configuring FortiGate firewalls (Fortinet NSE 4).
 
-- **English:** Native Proficiency
-- **Arabic:** Native Proficiency
+## Selected Odoo contributions
 
----
+Merged into [odoo/odoo](https://github.com/odoo/odoo):
 
-## 🏢 Professional Experience
+- [stock_account, sale_stock: do not flip the sign of COGS adjustments](https://github.com/odoo/odoo/pull/299128)
+- [mrp: over-production inflates finished qty](https://github.com/odoo/odoo/pull/289816)
+- [website: filter fuzzy candidates before ranking](https://github.com/odoo/odoo/pull/286155)
+- [account: send the invoice PDF first in the invoice email](https://github.com/odoo/odoo/pull/305311)
+- [hr_attendance: no absence on unscheduled days](https://github.com/odoo/odoo/pull/290509)
+- [sale_purchase_stock: vendor-lang dropship PO desc](https://github.com/odoo/odoo/pull/292734)
 
-**Network Security Intern**  
-*iEight Technologies, Cairo, Egypt*  
-*July 2023 - August 2023*  
+The full list is on [@albd-odoo](https://github.com/albd-odoo).
 
-- Broadened understanding of networking principles through Cisco’s CCNA program.
-- Completed the CompTIA Security+ (SY0-601) course.
-- Configured and managed FortiGate firewalls (Fortinet NSE 4).
+## Other work
 
-**Software Developer Intern**  
-*Suplyd, Cairo, Egypt*  
-*October 2024 – November 2024*
+- **AI-assisted support workflow.** I built a Claude Code setup with skills, hooks and subagents for ticket triage, local reproduction and fix validation, and my team adopted it. Part of it is a Python tool that pseudonymizes customer data in restored databases and audits the result before any AI agent works on the copy.
+- **CI/CD.** I test core fixes on runbot, Odoo's CI, before they ship. As a consultant I tested client modules on psxrunbot, Odoo Dubai's internal CI, then deployed them. I've also run SaaS to Odoo.sh migrations and production database restorations.
+- **[Hookline](https://github.com/aBadran0/hookline-releases).** A 2D team shooter I'm building in Godot 4, with 5v5 grapple-hook combat and mid-match body swapping. It runs a deterministic simulation with rollback netcode over ENet/UDP. Windows and Linux playtest builds are on the releases page. The source is private during development.
 
-- Developed robust APIs using NestJS and GraphQL.
-- Integrated with both MongoDB and PostgreSQL databases.
-- Applied Domain-Driven Design to align APIs with business logic.
-- Used Prisma ORM for database management and query optimization.
+## Skills
 
----
+- **Languages:** Python, SQL (PostgreSQL), JavaScript, XML, HTML, CSS, Java, C++, C#
+- **Frameworks:** Odoo (ORM, OWL, QWeb), Flask, Node.js, NestJS, GraphQL, Prisma, REST APIs
+- **Databases:** PostgreSQL, MongoDB, Oracle SQL, Google Firebase, Azure Cosmos DB
+- **Tools:** Git, GitHub, Linux, Odoo.sh, runbot, Claude Code, Azure
 
-## 🎓 Education
+## Education and certifications
 
-**Bachelors in Computer Science (ABET accredited)**  
-*American University of Sharjah, UAE*  
-*September 2020 – June 2024*
+- BSc in Computer Science (ABET accredited), American University of Sharjah, 2020 to 2024. University Merit Scholarship.
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Coursework in Cisco CCNA and CompTIA Security+ (SY0-601)
 
-**British Curriculum, IGCSE, A Levels**  
-*New English School, Kuwait*  
-*September 2008 - June 2020*
+## Contact
 
----
+[LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/) · ali.badran53@yahoo.com
 
-## 🏆 Accomplishments
-
-- **University Merit Scholarship (20%)**  
-  *American University of Sharjah, September 2020*  
-  Awarded a 20% scholarship for maintaining a CGPA above 2.75.
-
-- [**Graduation Project**](https://github.com/aBadran0/Capstone-Project)  
-  *American University of Sharjah, June 2023 – June 2024*  
-  Created a website utilizing Google Earth Engine (GEE) to visualize and analyze gas emissions from the Sentinel-5P Satellite’s TROPOMI sensor. Developed an Air Quality Index metric for trend analysis.
-
----
-
-## 💻 Projects
-
-- [Python Parser Simulation for Syntactic and Lexical Analysis.](https://github.com/aBadran0/SimplePyParser)
-- [Multi-user Video Game Database Mobile Application using Java and Firebase.](https://github.com/aBadran0/CMP354Project)
-- [Simulation of Quicksort Variations using C++.](https://github.com/aBadran0/QuicksortVarations)
-- [Smart Parking Lot Simulation using Azure Web Services and CosmosDB.](https://github.com/aBadran0/Smart-Parking-Lot)
-- [Music Database Application using Java and Oracle SQL.](https://github.com/aBadran0/Music-Database)
-
----
-
-## 📞 Contact Info
-
-📧 [ali.badran53@yahoo.com](mailto:ali.badran53@yahoo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-badran-2584b4223/)  
-🔗 [GitHub](https://github.com/aBadran0)
+English and Arabic, both native proficiency.
